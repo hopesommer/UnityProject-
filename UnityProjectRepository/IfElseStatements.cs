@@ -11,6 +11,8 @@ public class IfElseStatements : MonoBehaviour
     private int milesawayfromwork = 12;
     private int numberofwins = 7;
     // Use this for initialization
+    // if else statements are conditional statements that will show
+    //different results based on different conditions
     void Start()
     {
         if (time < 12)
